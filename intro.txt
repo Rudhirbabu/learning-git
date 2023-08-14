@@ -1,0 +1,32 @@
+Git - version control system
+
+Github - website (where we push/upload Git tracked code.)
+
+Uses
+    - easy to manage
+    - easy to share platform
+    - version management
+    - collaboration of various developers
+
+Repositories (repos)
+    - Project folder which holds all files.
+    - project folder which is being tracked by git.
+
+    2 types of repos:
+
+    1. Local - our PC local memory
+    2. Remote - Github, GitLab
+
+    whatever happens in our computer we can store in local repository and push it Remote repository later.
+
+    Flow of Github:
+    working directory -> staging area -> local repo -> remote repo
+                     add             commit        push
+
+    # working directory = is the place where you actively make changes to the code.
+
+    # staging area = Temporary place where you put your files before putting/(committing it git) in local repo.
+
+    # local repo = .git folder(hidden) which is being tracked. Once files reach this place it means changes are committed and tracked.
+
+    # remote repo = Github here
